@@ -1,0 +1,8 @@
+Register No,Student Name,Course Code,Course Name,Hall No,Seat No,Building,Floor,Special Instructions
+004101,Sample Candidate A,CS8501,Database Management Systems,LH-101,A-01,Science Block,1st Floor,Non-programmable calculator allowed
+004102,Sample Candidate B,CS8501,Database Management Systems,LH-101,A-02,Science Block,1st Floor,Non-programmable calculator allowed
+004103,Sample Candidate C,CS8501,Database Management Systems,LH-101,A-03,Science Block,1st Floor,Non-programmable calculator allowed
+004104,Sample Candidate D,EC3402,Signals and Systems,AUD-01,S-15,Auditorium,Ground Floor,No electronic devices permitted
+004105,Sample Candidate E,EC3402,Signals and Systems,AUD-01,S-16,Auditorium,Ground Floor,No electronic devices permitted
+004106,Sample Candidate F,ME2104,Fluid Mechanics,MECH-202,M-04,Mechanical Wing,2nd Floor,Steam tables provided at hall
+004107,Sample Candidate G,ME2104,Fluid Mechanics,MECH-202,M-05,Mechanical Wing,2nd Floor,Steam tables provided at hall
